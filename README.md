@@ -2,7 +2,7 @@
 
 # 📘 Document: Install & Configure Apache ActiveMQ on Linux
 
-## 1️⃣ Prerequisites
+## 1️⃣Prerequisites
 
 * Linux server (RHEL/CentOS/Ubuntu)
 * Root or sudo access
